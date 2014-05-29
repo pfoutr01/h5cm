@@ -1,0 +1,220 @@
+
+<style type="text/css">
+
+		body {
+
+			font-family: sans-serif;
+
+		}
+		
+	    .deviceorientation {
+
+			border: 1px solid black;
+
+			box-shadow: 10px 10px 5px #888;
+
+			border-radius: 12px;
+
+			padding: 20px;
+
+			background-color: #ddd;
+
+			margin: 25px;
+
+			width: 330px;
+
+			margin-left:auto;
+
+			margin-right:auto;	
+
+		}		
+		
+		.devicemotion {
+
+			border: 1px solid black;
+
+			box-shadow: 10px 10px 5px #888;
+
+			border-radius: 12px;
+
+			padding: 20px;
+
+			background-color: #ddd;
+
+			margin: 25px;
+
+			width: 330px;
+
+			margin-left:auto;
+
+			margin-right:auto;	
+
+		}		
+		
+		.devicegeolocation {
+
+			border: 1px solid black;
+
+			box-shadow: 10px 10px 5px #888;
+
+			border-radius: 12px;
+
+			padding: 20px;
+
+			background-color: #ddd;
+
+			margin: 25px;
+
+			width: 330px;
+
+			margin-left:auto;
+
+			margin-right:auto;	
+
+		}		
+		
+		.mapcontainer {
+
+			border: 1px solid black;
+
+			box-shadow: 10px 10px 5px #888;
+
+			border-radius: 12px;
+
+			padding: 20px;
+
+			background-color: #ddd;
+
+			margin: 25px;
+
+			width: 540px;
+
+			margin-left:auto;
+
+			margin-right:auto;	
+
+		}		
+		
+		.videocapture {
+
+			border: 1px solid black;
+
+			box-shadow: 10px 10px 5px #888;
+
+			border-radius: 12px;
+
+			padding: 20px;
+
+			background-color: #ddd;
+
+			margin: 25px;
+
+			width: 320px;
+
+			margin-left:auto;
+
+			margin-right:auto;	
+
+		}		
+		
+		
+		.devicebattery {
+
+			border: 1px solid black;
+
+			box-shadow: 10px 10px 5px #888;
+
+			border-radius: 12px;
+
+			padding: 20px;
+
+			background-color: #ddd;
+
+			margin: 25px;
+
+			width: 400px;
+
+			margin-left:auto;
+
+			margin-right:auto;	
+
+		}		
+		
+		.devicenetwork {
+
+			border: 1px solid black;
+
+			box-shadow: 10px 10px 5px #888;
+
+			border-radius: 12px;
+
+			padding: 20px;
+
+			background-color: #ddd;
+
+			margin: 25px;
+
+			width: 400px;
+
+			margin-left:auto;
+
+			margin-right:auto;	
+
+		}		
+
+
+		.logo {
+
+			width:275px;
+
+			margin-left: auto;
+
+			margin-right: auto;
+
+			display: block;
+
+			padding: 15px;
+
+		}
+
+		
+
+		.container {
+
+			-webkit-perspective: 300; perspective: 300;
+
+		}
+		
+		
+		/* =demos */
+  div.mapblock p
+{
+	margin: 0 30px 15px 20px;
+	font-size: 0.75em;
+	line-height: 1.6em;
+	width:500px;
+}
+
+
+.demo-map
+{
+	margin: 0 0 20px 20px;width: 500px; height: 300px;border: 1px solid #6666dd;
+}
+#address
+{
+	font-weight:bold;
+	color:#666;
+}
+
+
+.videostream, #cssfilters-stream, #screenshot {
+  width: 307px;
+  height: 250px;
+}
+.videostream, #cssfilters-stream {
+  background: rgba(255,255,255,0.5);
+  border: 1px solid #ccc;
+}
+
+
+	</style>
