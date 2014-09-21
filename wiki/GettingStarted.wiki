@@ -1,0 +1,26 @@
+#summary Introduction and perquisites to developing with H5CM.
+
+= Getting Started =
+== Introduction == 
+This section will illustrate the prerequisites required for the development of a context-aware application using the H5CM framework, as well as the folder structure for the source code. 
+  * Download the H5CM source code here.
+  * For more information refer to “Enabling Cross-platform Mobile Application Development: A context-aware Middleware”. Download the paper here.
+== Prerequisites ==
+In order to develop context-aware application using the H5CM framework you will need the following:
+  * An understanding of modern web development technologies (JavaScript, HTML5, CSS3) and web services (SOAP, RESTful). 
+  * A sophisticated text editor such as Notepad++ or Sublime for development
+  * A Dropbox account with access to the Public folder feature. Note: the Public folder is available to any “Basic” accounts created before July 31, 2012. Due to feature alterations in the Dropbox software, the Public folder is only available to “Pro” or “Business” accounts if the account was created after July 31, 2012 
+  * Latest build of the [https://dl.dropboxusercontent.com/u/1861685/html5-context-middleware_v0.1.zip H5CM software]
+  * (OPTIONAL) Reading the paper is highly recommended, as it will afford the developer a more comprehensive understanding of the software’s architecture and framework (link to paper)
+== Main Directory / Folder Structure ==
+The H5CM project is designed for implementation and execution on HTML5 standard compatible browsers and makes use of a number of JavaScript plug-ins and files. As such, the main folders necessary to utilize the H5CM framework are listed below:
+  * /Assets – Contains resources such as images and JS scripts, as well as a CSS file.
+  * /Context – Contains JavaScript singleton and utilities.
+  * /Modules – Contains reasoner and sensor module plug-ins
+  * ContextAwareApplication.html – HTML file used to run application
+  * ContextAwareApplication.js – JavaScript file which loads module/plug-in scripts
+== Development Guides ==
+Refer to the following sections for development tutorials:
+  * Context-aware application development
+  * Context sensor plugin development
+  * Context reasoner plugin development
