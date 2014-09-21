@@ -11,7 +11,7 @@ In order to develop context-aware application using the H5CM framework you will 
   * A sophisticated text editor such as Notepad++ or Sublime for development
   * A Dropbox account with access to the Public folder feature. Note: the Public folder is available to any “Basic” accounts created before July 31, 2012. Due to feature alterations in the Dropbox software, the Public folder is only available to “Pro” or “Business” accounts if the account was created after July 31, 2012 
   * Latest build of the [https://dl.dropboxusercontent.com/u/1861685/html5-context-middleware_v0.1.zip H5CM software]
-  * (OPTIONAL) Reading the paper is highly recommended, as it will afford the developer a more comprehensive understanding of the software’s architecture and framework (link to paper)
+  * (OPTIONAL) Reading the [https://dl.dropboxusercontent.com/u/1861685/html5-context-middleware_v0.1.zip paper] is highly recommended, as it will afford the developer a more comprehensive understanding of the software’s architecture and framework
 == Main Directory / Folder Structure ==
 The H5CM project is designed for implementation and execution on HTML5 standard compatible browsers and makes use of a number of !JavaScript plug-ins and files. As such, the main folders necessary to utilize the H5CM framework are listed below:
   * /Assets – Contains resources such as images and JS scripts, as well as a CSS file.
