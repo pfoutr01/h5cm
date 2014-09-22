@@ -21,6 +21,6 @@ The H5CM project is designed for implementation and execution on HTML5 standard 
   * !ContextAwareApplication.js – !JavaScript file which loads module/plug-in scripts
 == Development Guides ==
 Refer to the following sections for development tutorials:
-  * Context-aware application development
-  * Context sensor plugin development
-  * Context reasoner plugin development
+  * [https://code.google.com/p/h5cm/wiki/SensorDevelopment Sensor Development]
+  * [https://code.google.com/p/h5cm/wiki/ReasonerDevelopment Reasoner Development]
+  * [https://code.google.com/p/h5cm/wiki/ApplicationDevelopment Application Development]
