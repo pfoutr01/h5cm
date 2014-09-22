@@ -3,8 +3,8 @@
 = Getting Started =
 == Introduction == 
 This section will illustrate the prerequisites required for the development of a context-aware application using the H5CM framework, as well as the folder structure for the source code. 
-  * Download the H5CM source code [https://dl.dropboxusercontent.com/u/123935850/HTML5-Middleware.pdf here].
-  * For more information refer to “Enabling Cross-platform Mobile Application Development: A context-aware Middleware”. Download the paper [https://dl.dropboxusercontent.com/u/1861685/html5-context-middleware_v0.1.zip here].
+  * Download the H5CM source code [https://dl.dropboxusercontent.com/u/1861685/html5-context-middleware_v0.1.zip here].
+  * For more information refer to “Enabling Cross-platform Mobile Application Development: A context-aware Middleware”. Download the paper [https://dl.dropboxusercontent.com/u/123935850/HTML5-Middleware.pdf here].
 == Prerequisites ==
 In order to develop context-aware application using the H5CM framework you will need the following:
   * An understanding of modern web development technologies (!JavaScript, HTML5, CSS3) and web services (SOAP, RESTful). 
