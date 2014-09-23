@@ -29,4 +29,10 @@ In the following steps, we will develop and deploy our example application.
   # In addition, locate the channel.html file within the /assets/fb/ directory and copy the public link for the channel.html file. Then located the !FacebookConnect function in the !ContextAwareApplication.html and !ContextAwareApplication.js files and replace the link for the channel.html file with your own.
   # The application can now be deployed. Copy the public link for the HTML file and open it on a mobile device. Note there may be compatibility issues with different devices and browsers. See below for a screenshot of our example application running in Firefox on a Samsung Tab 2.
 http://s27.postimg.org/42vv4m2oz/contextappexample.jpg 
+
+== Development Guides ==
+Refer to the following sections for development tutorials:
+  * [https://code.google.com/p/h5cm/wiki/SensorDevelopment Sensor Development]
+  * [https://code.google.com/p/h5cm/wiki/ReasonerDevelopment Reasoner Development]
+  * [https://code.google.com/p/h5cm/wiki/ApplicationDevelopment Application Development]
  
