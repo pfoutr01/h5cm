@@ -16,3 +16,9 @@ The development of the *!BatteryLevel* sensor module is described in the followi
   # The script can then be invoked in the !ContextAwareApplication.js scriptsURL array and loaded into the application. 
 
 http://s30.postimg.org/8i72mafip/jscodesensor.jpg
+
+== Development Guides ==
+Refer to the following sections for development tutorials:
+  * [https://code.google.com/p/h5cm/wiki/SensorDevelopment Sensor Development]
+  * [https://code.google.com/p/h5cm/wiki/ReasonerDevelopment Reasoner Development]
+  * [https://code.google.com/p/h5cm/wiki/ApplicationDevelopment Application Development]
