@@ -11,7 +11,9 @@ The Battery Analyser allows the application to adapt its functionality should th
   # As with all the modules, we first register the plugin to the Singleton !ContextManager as an instance (line 3)
   # We use a conditional if-statement to compare the batteryLevel and batterylevelCutoff parameters. If true (line 7) we assign the value “TRUE” to the instance we created and return the value (Line 9-13). 
   # Otherwise if false (line 15) we return “FALSE”.
-http://s29.postimg.org/lzfvtw1jr/jscodereasoner.== Development Guides ==
+http://s29.postimg.org/lzfvtw1jr/jscodereasoner.jpg
+
+== Development Guides ==
 Refer to the following sections for development tutorials:
   * [https://code.google.com/p/h5cm/wiki/SensorDevelopment Sensor Development]
   * [https://code.google.com/p/h5cm/wiki/ReasonerDevelopment Reasoner Development]
