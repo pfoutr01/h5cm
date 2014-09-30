@@ -25,6 +25,7 @@ function DeviceMotion() {
 					var tiltFB = Math.round(((acceleration.y + 9.81) / 9.81) * 90 * facingUp);
 					
 					// changing and dispatching events here works
+          singletonContextManager.dm_acceleration.dm_acceleration = acceleration;
 					singletonContextManager.dm_rawAcceleration.dm_rawAcceleration = rawAcceleration;
 					singletonContextManager.dm_tiltLR.dm_tiltLR = tiltLR;
 					singletonContextManager.dm_tiltFB.dm_tiltFB = tiltFB;
