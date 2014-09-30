@@ -1,4 +1,3 @@
-
 function loadDependencies(scriptsURL){
 	// *** Create an array to hold our promises
             var promises = [ ];
@@ -265,6 +264,14 @@ var ContextManagerSingleton = (function () {
 						bubbles: true, cancelable: true }
 				);
 				console.log("batteryAnalyser context property initialised");
+			}
+      else if (context == "activityRecognizer"){
+				instance.activityRecognizer = { activityRecognizer: "context" };
+				instance.activityRecognizerContextValueEvent = new CustomEvent("activityRecognizerContextValueEvent", { 
+					detail: { message: "activityRecognizerContextValueEvent",time: new Date() },
+						bubbles: true, cancelable: true }
+				);
+				console.log("ActivityRecognizer context property initialised");
 			}
 			else if (context == "application"){
 				console.log("no action required. simply return singleton instance");
